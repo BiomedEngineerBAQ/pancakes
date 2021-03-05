@@ -1,6 +1,6 @@
 Eggs 
-Milk
+ButterMilk
 Flour
 Butter
 Salt
-
+Vanilla
